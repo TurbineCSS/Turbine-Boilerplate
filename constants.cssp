@@ -1,0 +1,7 @@
+@turbine
+	compress:0
+
+@constants
+	project: projektname
+	img:     ../../templates/$project/img
+	assets:  ../..
